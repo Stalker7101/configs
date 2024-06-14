@@ -1,0 +1,4 @@
+session=xmonad
+# geometry=2388x1668
+geometry=1194x834
+alwaysshared

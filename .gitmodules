@@ -1,0 +1,3 @@
+[submodule "PiConfig"]
+	path = PiConfig
+	url = https://github.com/verxion/RaspberryPi.git
